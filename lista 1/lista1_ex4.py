@@ -13,6 +13,7 @@ for i in range(100):
     t.forward(i*1.5)
     t.right(90)
 
+
 t.penup()
 t.goto(200, 0)
 t.pendown()
